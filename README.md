@@ -1,5 +1,5 @@
 # just-javascript
-Minimal Setup for testing javascript using Node.js.
+Minimal Setup for running javascript using Node.js.
 Supports ES6.
 
 
