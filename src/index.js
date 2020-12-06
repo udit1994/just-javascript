@@ -1,1 +1,2 @@
-console.log("Hello Javascript.");
+const text = 'Hello Javascript';
+console.log(text);
